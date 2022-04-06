@@ -1,0 +1,98 @@
+
+header {
+  height: 600px;
+  width: 100%;
+  background-image: url(../SHONAN/IMG_1162.jpg);
+  background-size: cover;
+  background-position: center;
+}
+  
+.head-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+h2 {
+  color:aqua;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.menu-icon {
+  color: white;
+  font-size: 40px;
+  padding: 50px
+}
+
+h4 {
+  text-align: center;
+  margin-top: 100px;
+}
+
+.nav-items {
+  text-align: center;
+  padding: 30px;
+  height: 100%;
+  background-color:lightseagreen;
+}
+
+.nav-items p {
+  color:azure;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.SEA, .FOOD, .PLACE, .ACTIVITY {
+  width: 200px;
+  height: 150px;
+  
+}
+
+.nav-para {
+  padding-bottom: 20px;
+}
+
+.message-wrapper {
+  text-align: center;
+  padding: 40px 0 30px 0;
+  height: 120px;
+  background-image:url(../SHONAN/IMG_3673.jpg);
+  background-size: cover;
+  background-position: center;
+  color:azure;
+  margin-top: 5px;
+}
+
+.btn {
+  padding: 8px 24px;
+  color: white;
+  display: inline-block;
+  opacity: 0.8;
+  border-radius: 4px;
+  text-align: center;
+}
+
+.btn:active {
+  position: relative;
+  top: 7px;
+  box-shadow: none;
+}
+
+.btn-wrapper {
+  text-align: center;
+  margin: 20px 0;
+}
+
+.facebook {
+  background-color: #3b5998;
+  margin-right: 10px;
+}
+
+.twitter {
+  background-color: #55acee;
+  margin-right: 10px;
+}
+
+.instagram {
+  background-color:darkviolet;
+}
+
